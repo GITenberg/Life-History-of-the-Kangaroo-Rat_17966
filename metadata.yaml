@@ -1,0 +1,35 @@
+_repo: Life-History-of-the-Kangaroo-Rat_17966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Vorhies, Charles Taylor
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '7725'
+    url: http://www.gutenberg.org/2009/agents/7725
+  - agent_name: Taylor, Walter P. (Walter Penn)
+    birthdate: 1888
+    deathdate: 1972
+    gutenberg_agent_id: '7726'
+    url: http://www.gutenberg.org/2009/agents/7726
+description: United States Department of Agriculture Bulletin No. 1091
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+- Biology
+gutenberg_issued: '2006-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kangaroo rats'
+- !lcc 'QL'
+title: Life History of the Kangaroo Rat
+url: http://www.gutenberg.org/ebooks/17966
