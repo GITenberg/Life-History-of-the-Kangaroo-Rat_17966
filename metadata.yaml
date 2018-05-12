@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '7726'
     url: http://www.gutenberg.org/2009/agents/7726
 description: United States Department of Agriculture Bulletin No. 1091
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17966#Life-History-of-the-Kangaroo-Rat
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
